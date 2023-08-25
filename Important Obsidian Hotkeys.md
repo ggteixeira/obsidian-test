@@ -1,0 +1,5 @@
+1. Open link in edit mode (cmd+click on link)
+2. Toggle edit/preview modes (cmd+e)
+3. Open Quick Switcher (cmd+0)
+4. Global Search (cmd+shift+f)
+5. Plus: command box (cmd+p, like in [[Visual Studio Code]])

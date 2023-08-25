@@ -1,0 +1,6 @@
+Olá, mundo
+
+* Se eu me chamasse Raimundo...
+* Se eu não te amasse tanto assim...
+
+Esta nota foi criada como ".txt" e depois eu só renomeei para ".md". Não sei o trampo que daria renomear todas as trocentas outras — fora o trampo de formatar.
