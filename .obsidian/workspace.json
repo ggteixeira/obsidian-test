@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "e544285e07a2d057",
+    "type": "split",
+    "children": [
+      {
+        "id": "298ac23adfb47210",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0656e64f9cf2832e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44912ec5b65a280b",
+    "type": "split",
+    "children": [
+      {
+        "id": "444008d65401dc89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc947c6537fb5aee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bcc21440ccd333b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c320795634660cb0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9efbbcbf37f55f7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5ff82f10872262f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70541e2ab3e22252",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45f1d1bffec7706b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c315a1c2a129bbf6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "404bf9350bea619a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0656e64f9cf2832e",
+  "lastOpenFiles": [
+    "Important Obsidian Hotkeys.md",
+    "texto.md",
+    "Sense of Control.md",
+    "Red Pill, Blue Pill.md",
+    "Movies/The Matrix.md",
+    "Adversity Paradox.md",
+    "NeverNote.md",
+    "Movies/Fast & Furious.md",
+    "texto.txt",
+    "24-08-2023.md",
+    "2023-08-24.md",
+    "Interestelar.md",
+    "Movies",
+    "Vou linkar esta nota com a Matrix..md",
+    "Victor Frank.md",
+    "NoteStar.md"
+  ]
+}
