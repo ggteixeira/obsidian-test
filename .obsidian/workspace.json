@@ -11,7 +11,7 @@
             "id": "0656e64f9cf2832e",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -139,13 +139,14 @@
   },
   "active": "0656e64f9cf2832e",
   "lastOpenFiles": [
+    "NoteStar.md",
+    "NeverNote.md",
     "Important Obsidian Hotkeys.md",
     "texto.md",
     "Sense of Control.md",
     "Red Pill, Blue Pill.md",
     "Movies/The Matrix.md",
     "Adversity Paradox.md",
-    "NeverNote.md",
     "Movies/Fast & Furious.md",
     "texto.txt",
     "24-08-2023.md",
@@ -153,7 +154,6 @@
     "Interestelar.md",
     "Movies",
     "Vou linkar esta nota com a Matrix..md",
-    "Victor Frank.md",
-    "NoteStar.md"
+    "Victor Frank.md"
   ]
 }

@@ -1,1 +1,1 @@
-    Hi, I'm a new note!
+Hi, I'm a new note!, and everybody likes me, not [[NeverNote]].
